@@ -8,7 +8,7 @@ Neste projeto usei estruturas de repetições como:
 - While, for    
 - If, Elif, Else
 
-Também imprimi o "tabuleiro" usando uma simples matrix
+Também imprimi o "tabuleiro" usando uma simples matriz
 
 ## Autor
 
